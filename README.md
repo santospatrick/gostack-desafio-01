@@ -16,4 +16,4 @@ yarn dev
 ![VSCode debug](docs/debug.png)
 
 ## Insomnia
-[Baixe e importe]() a workspace para testar as requisições
+[Baixe aqui](https://raw.githubusercontent.com/santospatrick/gostack-desafio-01/master/json/Insomnia_2019-10-16.json) o arquivo .json do projeto do Insomnia para testar as requisições
